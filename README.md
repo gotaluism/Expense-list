@@ -1,7 +1,7 @@
 # Expense List
 
 
-Expense List is a mini-project which you can introduce the expenses and filtered them by an expecific year with graphics to have a better comprehension.
+Expense List is a mini-project which you can introduce the expenses and filtered them by an specific year with graphics to have a better comprehension.
 <br></br>
 ![graphics-react1](https://github.com/gotaluism/Expense-list/assets/76192117/d37ddba5-87d5-4c00-940e-4477f46d4d30)
 ![react-project3](https://github.com/gotaluism/Expense-list/assets/76192117/bd8124ca-dcd6-45ae-a038-2bb23fd3521d)
