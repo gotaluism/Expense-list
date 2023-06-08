@@ -1,7 +1,9 @@
 import "./NewExpense.css"
 import ExpenseForm from "./ExpenseForm";
 
+
 function NewExpense(props){
+
     const saveExpenseDataHandler=(enteredExpenseData)=>{
         const expenseData={
             ...enteredExpenseData,
@@ -9,6 +11,7 @@ function NewExpense(props){
         };
         props.onAddExpense(expenseData);
     };
+
 
     
 
